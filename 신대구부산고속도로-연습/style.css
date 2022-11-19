@@ -74,3 +74,24 @@
   border-bottom: 4px solid #1764dc;
   color: #3c91f3;
 }
+#header p {
+  display: block;
+  height: 99px;
+  line-height: 99px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #0e3c84;
+}
+#header p span {
+  color: #1764dc;
+}
+#header div > div {
+  padding: 30px 0 0 0;
+  font-size: 0;
+}
+#header .btn_pop {
+  display: inline-block;
+  width: 75px;
+  height: 40px;
+  background: #2cc06b;
+}
